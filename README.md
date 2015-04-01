@@ -192,7 +192,7 @@ others--no need for bikesheds here! Yes, the benefits are quite clear.
 Compatibility
 -------------
 Meẗal only works with Python 3.  If you love Python and you're still
-coding in Python 2, well, then fuck you.
+coding only in Python 2, well, then fuck you.
 
 Limitations of Meẗal
 --------------------
